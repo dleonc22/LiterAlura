@@ -1,7 +1,8 @@
 # LiterAlura
 Challenge Alura - Buscador de libros 
+
 Este programa de consola esta diseñado para ser un catalogo de libros donde podemos realizar varias consultas.
-Este programa se realizo en Java 17.
+Este programa se realizo en Java 17 y se encuentra en la rama MASTER.
 <h2>
   USO DE LA APLICACION
 </h2>
